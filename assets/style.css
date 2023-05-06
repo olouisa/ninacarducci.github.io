@@ -67,6 +67,10 @@ body {
 	z-index: 0;
 }
 
+/* img.d-block.w-100 {
+	aspect-ratio: 16 / 9;
+} */
+
 .picture img {
 	width: 100%;
 
